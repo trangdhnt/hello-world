@@ -1,4 +1,2 @@
 # hello-world
-Hello the world 
-1
-2
+Hello the world
